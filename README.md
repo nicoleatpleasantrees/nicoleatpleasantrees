@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicoleatpleasantrees
-- 👀 I’m interested in cannabis, data, and coffee.
+- 👀 I’m interested in cannabis, data, crypto, dogs, and coffee.
 - 🌱 I’m currently learning d3.js
 - 📫 Find me on [Bluesky](https://bsky.app/profile/nicolemark.bsky.social)
 
